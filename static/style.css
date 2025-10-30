@@ -18,6 +18,17 @@ header, main, footer
 header, footer
 {
     background: #345;
+    color: antiquewhite;
+}
+header a
+{
+    color: aliceblue;
+    text-decoration: none;
+    transition: 550ms ease-in-out;
+}
+header li:hover
+{
+    transform: scale(1.2);
 }
 main
 {

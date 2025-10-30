@@ -3,10 +3,10 @@ import path from 'path'
 
 const app: Express = express()
 
-app.use('/static', express.static(path.join(__dirname, '/static')))
+app.use('/static', express.static(path.join(__dirname, '..', '/static')))
 
 app.get('/', (req: Request, res: Response) => {
-    res.sendFile(path.join(__dirname, 'static', 'index.html'))
+    res.sendFile(path.join(__dirname, '..', 'static', 'index.html'))
 })
 
 app.listen(3000, () => {
