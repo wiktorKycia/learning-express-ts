@@ -1,30 +1,10 @@
-# 🚀 Express.js Starter (TypeScript)
+# My Express.js exercises in TypeScript
 
-Starter repository for **ZSK students** — a lightweight, ready-to-use Express.js setup using **TypeScript**.
-
----
-
-## 📦 About
-
-This project provides a simple, clean boilerplate for building Node.js applications with **Express.js** and **TypeScript**.  
-It includes configuration for **TypeScript**, **ESLint**, **Prettier**, and **Nodemon**, allowing you to start coding immediately with consistent code style and automatic restarts during development.
-
-> **Note:** This project requires **Node.js version 22** or higher.
+The code that I write to test some things and improve my skills at express.js
 
 ---
 
-## 🧰 How to Use This Template
-
-1. Click **"Use this template"** at the top of this repository.
-2. Choose **"Create a new repository"**.
-3. Fill in the repository details (name, description, visibility).
-4. Clone your new repository: `git clone https://github.com/<your-username>/<your-repo>.git`
-5. Install dependencies: `npm install`
-6. Start developing your app 🚀
-
----
-
-## ⚙️ Dependencies
+## Dependencies
 
 ### Runtime dependencies
 
@@ -46,7 +26,7 @@ It includes configuration for **TypeScript**, **ESLint**, **Prettier**, and **No
 
 ---
 
-## 💻 NPM Scripts
+## NPM Scripts
 
 | Command            | Description                                            |
 | ------------------ | ------------------------------------------------------ |
@@ -58,15 +38,15 @@ It includes configuration for **TypeScript**, **ESLint**, **Prettier**, and **No
 
 ---
 
-## 🧑‍🏫 Author
+## Author
 
-Paweł Palacz ([@ppoz21](https://github.com/ppoz21))
+Wiktor Kycia ([@wiktor](https://github.com/wiktorKycia))
 
 Created for educational purposes.  
 Feel free to modify and expand it for your projects.
 
 ---
 
-## 📄 License
+## License
 
 This template is provided under the [MIT License](LICENSE).
